@@ -28,22 +28,9 @@ You just need to upload your resume and define your career goal. The multi agent
 </p>
 
 ## 🏗️ Architecture
-Agentic-AI-Career-Coach/
-├── agents/ # AI Agent implementations
-│ ├── CareerGoalAnalyzerAgent.py # Analyzes career requirements
-│ ├── CourseFinderAgent.py # Discovers relevant courses
-│ ├── EvaluatorAgent.py # Ranks and evaluates courses
-│ ├── ResumeSkillExtractorAgent.py # Extracts skills from resumes
-│ └── tools/ # Agent-specific tools
-│ ├── analyze_resume_text.py
-│ ├── course_website_crawler.py
-│ └── job_website_crawler.py
-├── utils/ # Utility functions
-│ └── pdf_parser.py # PDF text extraction
-├── front_end.py # Streamlit web interface
-└── requirements.txt # Dependencies
-
-
+<p align="center">
+  <img src="img/Architecture.png" alt="CareerPath AI Dashboard" width="700">
+</p>
 
 
 ## 🚀 Quick Start
