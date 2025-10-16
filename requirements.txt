@@ -10,3 +10,6 @@ langchain-community
 langchain-openai
 crewai_tools
 PyPDF2
+fastapi
+uvicorn
+python-multipart
