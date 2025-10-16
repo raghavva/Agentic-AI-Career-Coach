@@ -2,6 +2,8 @@
 
 A sophisticated AI-powered web scraping system that combines CrewAI agents with advanced crawling capabilities to extract structured data from websites. The system features a professional Streamlit frontend for career path analysis and course recommendations.
 
+![Snip_TEMP0001 (3)](/img/Snip_TEMP0001 (3))
+
 ## 🌟 Features
 
 ### Core Web Crawling
