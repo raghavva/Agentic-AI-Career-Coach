@@ -2,11 +2,11 @@
 
 A sophisticated AI-powered web scraping system that combines CrewAI agents with advanced crawling capabilities to extract structured data from websites. The system features a professional Streamlit frontend for career path analysis and course recommendations.
 
-![Snip_TEMP0001 (3)](/img/Snip_TEMP0001 (3).png)
-
 <p align="center">
-  <img src="img/Snip_TEMP0001 (3).png" alt="CareerPath AI Dashboard" width="700">
+  <img src="img/Snip_TEMP0001 (4).png" alt="CareerPath AI Dashboard" width="700">
 </p>
+
+You just need to upload your resume and define your career goal. The multi agentic framework collects dynamic skills in real time for existing job postings and suggests the courses needed to to work on reaching your career ambition.
 
 ## 🌟 Features
 
@@ -22,6 +22,10 @@ A sophisticated AI-powered web scraping system that combines CrewAI agents with 
 - **Skill Gap Identification**: Automatic comparison between current and required skills
 - **Course Recommendations**: Personalized course suggestions from top platforms
 - **Professional UI**: Modern, responsive Streamlit interface
+
+<p align="center">
+  <img src="img/Snip_TEMP0001 (3).png" alt="CareerPath AI Dashboard" width="700">
+</p>
 
 ## 🏗️ Architecture
 Agentic-AI-Career-Coach/
