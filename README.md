@@ -4,6 +4,10 @@ A sophisticated AI-powered web scraping system that combines CrewAI agents with 
 
 ![Snip_TEMP0001 (3)](/img/Snip_TEMP0001 (3).png)
 
+<p align="center">
+  <img src="img/Snip_TEMP0001 (3).png" alt="CareerPath AI Dashboard" width="700">
+</p>
+
 ## 🌟 Features
 
 ### Core Web Crawling
