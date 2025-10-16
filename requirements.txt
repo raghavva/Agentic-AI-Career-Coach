@@ -1,0 +1,12 @@
+crawl4ai
+playwright
+crewai 
+unstructured 
+pyowm 
+python-dotenv 
+langchain-openai
+streamlit
+langchain-community
+langchain-openai
+crewai_tools
+PyPDF2
