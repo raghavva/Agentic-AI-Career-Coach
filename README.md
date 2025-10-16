@@ -77,6 +77,17 @@ You just need to upload your resume and define your career goal. The multi agent
 streamlit run front_end.py
 ```
 
+Alternatively you can use the FAST API end point as well. 
+
+1. uvicorn fastapi_app:app --reload
+2. Open: http://127.0.0.1:8000/docs
+3. Expand POST /analyze → “Try it out” → set career_goal → upload resume (PDF) → Execute
+
+
+<p align="center">
+  <img src="img/SwaggerUI.png" alt="CareerPath AI Dashboard" width="700">
+</p>
+
 ## 📖 Usage
 
 ### Web Interface
