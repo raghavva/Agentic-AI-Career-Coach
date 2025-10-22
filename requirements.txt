@@ -13,3 +13,4 @@ PyPDF2
 fastapi
 uvicorn
 python-multipart
+redis
