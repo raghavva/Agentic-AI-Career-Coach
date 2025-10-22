@@ -84,6 +84,12 @@ Alternatively you can use the FAST API end point as well.
 3. Expand POST /analyze → “Try it out” → set career_goal → upload resume (PDF) → Execute
 
 
+OR
+
+Run FastAPI server on one terminal : python -m uvicorn fastapi_app:app --reload     
+Run react server on another termianl : npm run dev
+
+
 <p align="center">
   <img src="img/SwaggerUI.png" alt="CareerPath AI Dashboard" width="700">
 </p>
