@@ -52,7 +52,7 @@ You just need to upload your resume and define your career goal. The multi agent
    ```bash
    Activate the venv in the top level folder i.e i Web Crawler AI Agent
    python3 -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   source .venv/bin/activate  # On Windows: venv\Scripts\activate
    ```
 
 3. **Install dependencies**
